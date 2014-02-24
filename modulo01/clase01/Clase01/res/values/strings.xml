@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Clase01</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    
+    <string name="txtnombreTexto">Ingrese un Nombre</string>
+    <string name="btnIngresoTexto">Ingresar</string>
+    
+    
+    <string name="MensajeError">Ingrese un nombre válido</string>
+    
+    
+    
+</resources>
