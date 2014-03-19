@@ -1,0 +1,21 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.area51.viewpager.MainActivity"    
+    android:orientation="vertical"
+    android:padding="1dp"
+>
+    <GridView
+        android:id="@+id/matriz"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:columnWidth="85dp"        
+        android:horizontalSpacing="0dp"
+        android:verticalSpacing="0dp"
+        android:stretchMode="columnWidth"     
+        android:numColumns="auto_fit"   
+         />
+
+</LinearLayout>

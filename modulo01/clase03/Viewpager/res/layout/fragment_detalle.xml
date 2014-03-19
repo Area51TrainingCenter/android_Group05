@@ -1,0 +1,34 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.area51.viewpager.DetalleActivity"
+    tools:ignore="MergeRootFrame"
+     >
+    
+    <ImageView
+        android:id="@+id/imagenFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/empty"
+        android:layout_gravity="center"
+     />
+    
+    <TextView 
+        android:id="@+id/nombreFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center_horizontal"
+        android:text="@string/imagenTexto"
+        android:textColor="#FFF"
+        android:padding="4dp"
+        />
+    
+    
+</FrameLayout>
+
+
+
