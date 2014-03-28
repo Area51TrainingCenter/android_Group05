@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Clase04</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    
+    <string name="textoboton">VER VOD</string>
+    
+    
+    <string name="textouno">Ahora en Vivo</string>
+    <string name="textodos">VIDAS</string>    
+    <string name="textotres">Próximo programa: El Angelus</string>
+   	<string name="textodestacado">DESTACADOS</string>
+    
+ 	<string name="textocargando">Cargando Imagen</string>
+   	
+</resources>
